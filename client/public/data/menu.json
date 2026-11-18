@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "category": "Starters",
+    "name": "Bruschetta Pomodoro",
+    "description": "Grilled ciabatta, vine tomatoes, basil, garlic and extra-virgin olive oil.",
+    "price": 249,
+    "veg": true,
+    "emoji": "🍅"
+  },
+  {
+    "id": 2,
+    "category": "Starters",
+    "name": "Crispy Calamari",
+    "description": "Lightly fried squid rings with lemon aioli and marinara dip.",
+    "price": 349,
+    "veg": false,
+    "emoji": "🦑"
+  },
+  {
+    "id": 3,
+    "category": "Starters",
+    "name": "Caprese Skewers",
+    "description": "Mozzarella, cherry tomato and basil with balsamic glaze.",
+    "price": 279,
+    "veg": true,
+    "emoji": "🧀"
+  },
+  {
+    "id": 4,
+    "category": "Starters",
+    "name": "Garlic Butter Prawns",
+    "description": "Pan-seared prawns, garlic butter, chilli flakes and parsley.",
+    "price": 399,
+    "veg": false,
+    "emoji": "🍤"
+  },
+  {
+    "id": 5,
+    "category": "Mains",
+    "name": "Margherita Pizza",
+    "description": "Wood-fired base, San Marzano sauce, fresh mozzarella and basil.",
+    "price": 429,
+    "veg": true,
+    "emoji": "🍕"
+  },
+  {
+    "id": 6,
+    "category": "Mains",
+    "name": "Pasta Alfredo",
+    "description": "Fettuccine in a creamy parmesan sauce with cracked pepper.",
+    "price": 389,
+    "veg": true,
+    "emoji": "🍝"
+  },
+  {
+    "id": 7,
+    "category": "Mains",
+    "name": "Chicken Parmigiana",
+    "description": "Crumbed chicken breast, marinara and melted mozzarella over spaghetti.",
+    "price": 479,
+    "veg": false,
+    "emoji": "🍗"
+  },
+  {
+    "id": 8,
+    "category": "Mains",
+    "name": "Mushroom Risotto",
+    "description": "Arborio rice, wild mushrooms, white wine and shaved parmesan.",
+    "price": 419,
+    "veg": true,
+    "emoji": "🍄"
+  },
+  {
+    "id": 9,
+    "category": "Mains",
+    "name": "Grilled Salmon",
+    "description": "Herb-crusted salmon fillet, lemon butter sauce and sautéed greens.",
+    "price": 649,
+    "veg": false,
+    "emoji": "🐟"
+  },
+  {
+    "id": 10,
+    "category": "Desserts",
+    "name": "Classic Tiramisu",
+    "description": "Espresso-soaked ladyfingers with mascarpone cream and cocoa.",
+    "price": 279,
+    "veg": true,
+    "emoji": "🍰"
+  },
+  {
+    "id": 11,
+    "category": "Desserts",
+    "name": "Panna Cotta",
+    "description": "Vanilla cream set with a warm berry compote.",
+    "price": 249,
+    "veg": true,
+    "emoji": "🍮"
+  },
+  {
+    "id": 12,
+    "category": "Desserts",
+    "name": "Chocolate Lava Cake",
+    "description": "Warm molten-centre cake served with vanilla gelato.",
+    "price": 299,
+    "veg": true,
+    "emoji": "🍫"
+  },
+  {
+    "id": 13,
+    "category": "Drinks",
+    "name": "Fresh Lime Soda",
+    "description": "Sweet, salted or mixed — served over ice with mint.",
+    "price": 129,
+    "veg": true,
+    "emoji": "🍋"
+  },
+  {
+    "id": 14,
+    "category": "Drinks",
+    "name": "Iced Cappuccino",
+    "description": "Double espresso, chilled milk and a cap of cold foam.",
+    "price": 179,
+    "veg": true,
+    "emoji": "☕"
+  },
+  {
+    "id": 15,
+    "category": "Drinks",
+    "name": "Virgin Mojito",
+    "description": "Muddled mint, lime and soda, lightly sweetened.",
+    "price": 169,
+    "veg": true,
+    "emoji": "🍹"
+  }
+]
