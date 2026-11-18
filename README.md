@@ -2,6 +2,14 @@
 
 A responsive, full-stack restaurant website built using **React, Node.js, Express.js, and SQLite**. The application provides an online food-ordering experience, shopping cart management, table reservations, and restaurant analytics through a RESTful API.
 
+## 🚀 Live Demo
+
+**Experience Bella Vista here:**
+
+👉 [Bella Vista – Live Website](https://bella-vista-official.netlify.app/)
+
+Explore the restaurant menu, add dishes to your cart, and try the table reservation experience.
+
 ## Technology Stack
 
 - **Frontend:** React 18, JavaScript, HTML5, CSS3
